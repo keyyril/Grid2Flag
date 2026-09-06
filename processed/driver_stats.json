@@ -1,0 +1,6015 @@
+{
+  "Lewis Hamilton": {
+    "avg_finish": 3.58,
+    "top10_rate": 95.9,
+    "podium_rate": 63.1,
+    "wins": 103,
+    "races": 314
+  },
+  "Nick Heidfeld": {
+    "avg_finish": 8.36,
+    "top10_rate": 73.2,
+    "podium_rate": 9.4,
+    "wins": 0,
+    "races": 138
+  },
+  "Nico Rosberg": {
+    "avg_finish": 6.36,
+    "top10_rate": 81.4,
+    "podium_rate": 32.2,
+    "wins": 23,
+    "races": 177
+  },
+  "Fernando Alonso": {
+    "avg_finish": 6.34,
+    "top10_rate": 82.0,
+    "podium_rate": 32.9,
+    "wins": 32,
+    "races": 322
+  },
+  "Heikki Kovalainen": {
+    "avg_finish": 11.84,
+    "top10_rate": 39.6,
+    "podium_rate": 4.4,
+    "wins": 1,
+    "races": 91
+  },
+  "Kazuki Nakajima": {
+    "avg_finish": 12.2,
+    "top10_rate": 30.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 30
+  },
+  "S\u00e9bastien Bourdais": {
+    "avg_finish": 12.25,
+    "top10_rate": 35.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 20
+  },
+  "Kimi R\u00e4ikk\u00f6nen": {
+    "avg_finish": 6.24,
+    "top10_rate": 81.1,
+    "podium_rate": 36.1,
+    "wins": 21,
+    "races": 285
+  },
+  "Robert Kubica": {
+    "avg_finish": 9.42,
+    "top10_rate": 61.2,
+    "podium_rate": 14.1,
+    "wins": 1,
+    "races": 85
+  },
+  "Timo Glock": {
+    "avg_finish": 13.77,
+    "top10_rate": 28.4,
+    "podium_rate": 4.1,
+    "wins": 0,
+    "races": 74
+  },
+  "Takuma Sato": {
+    "avg_finish": 11.62,
+    "top10_rate": 38.3,
+    "podium_rate": 1.7,
+    "wins": 0,
+    "races": 60
+  },
+  "Nelson Piquet Jr.": {
+    "avg_finish": 10.47,
+    "top10_rate": 41.2,
+    "podium_rate": 5.9,
+    "wins": 0,
+    "races": 17
+  },
+  "Felipe Massa": {
+    "avg_finish": 7.27,
+    "top10_rate": 81.7,
+    "podium_rate": 17.9,
+    "wins": 11,
+    "races": 229
+  },
+  "David Coulthard": {
+    "avg_finish": 5.83,
+    "top10_rate": 86.4,
+    "podium_rate": 36.7,
+    "wins": 13,
+    "races": 169
+  },
+  "Jarno Trulli": {
+    "avg_finish": 9.47,
+    "top10_rate": 62.4,
+    "podium_rate": 6.5,
+    "wins": 1,
+    "races": 170
+  },
+  "Adrian Sutil": {
+    "avg_finish": 12.47,
+    "top10_rate": 33.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 89
+  },
+  "Mark Webber": {
+    "avg_finish": 6.6,
+    "top10_rate": 82.5,
+    "podium_rate": 26.2,
+    "wins": 9,
+    "races": 160
+  },
+  "Jenson Button": {
+    "avg_finish": 7.42,
+    "top10_rate": 74.1,
+    "podium_rate": 20.6,
+    "wins": 15,
+    "races": 243
+  },
+  "Anthony Davidson": {
+    "avg_finish": 14.29,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 14
+  },
+  "Sebastian Vettel": {
+    "avg_finish": 5.28,
+    "top10_rate": 84.0,
+    "podium_rate": 46.6,
+    "wins": 53,
+    "races": 262
+  },
+  "Giancarlo Fisichella": {
+    "avg_finish": 8.23,
+    "top10_rate": 69.1,
+    "podium_rate": 11.7,
+    "wins": 3,
+    "races": 162
+  },
+  "Rubens Barrichello": {
+    "avg_finish": 7.06,
+    "top10_rate": 75.1,
+    "podium_rate": 29.7,
+    "wins": 11,
+    "races": 229
+  },
+  "Ralf Schumacher": {
+    "avg_finish": 6.25,
+    "top10_rate": 86.1,
+    "podium_rate": 22.1,
+    "wins": 6,
+    "races": 122
+  },
+  "Vitantonio Liuzzi": {
+    "avg_finish": 13.82,
+    "top10_rate": 25.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 55
+  },
+  "Alexander Wurz": {
+    "avg_finish": 8.32,
+    "top10_rate": 74.5,
+    "podium_rate": 6.4,
+    "wins": 0,
+    "races": 47
+  },
+  "Scott Speed": {
+    "avg_finish": 12.29,
+    "top10_rate": 23.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 17
+  },
+  "Christijan Albers": {
+    "avg_finish": 14.0,
+    "top10_rate": 7.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 28
+  },
+  "Markus Winkelhock": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Sakon Yamamoto": {
+    "avg_finish": 17.43,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 14
+  },
+  "Michael Schumacher": {
+    "avg_finish": 3.7,
+    "top10_rate": 93.8,
+    "podium_rate": 64.3,
+    "wins": 91,
+    "races": 241
+  },
+  "Juan Pablo Montoya": {
+    "avg_finish": 4.21,
+    "top10_rate": 93.5,
+    "podium_rate": 48.4,
+    "wins": 7,
+    "races": 62
+  },
+  "Christian Klien": {
+    "avg_finish": 11.23,
+    "top10_rate": 42.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 35
+  },
+  "Tiago Monteiro": {
+    "avg_finish": 13.34,
+    "top10_rate": 17.2,
+    "podium_rate": 3.4,
+    "wins": 0,
+    "races": 29
+  },
+  "Yuji Ide": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jacques Villeneuve": {
+    "avg_finish": 7.05,
+    "top10_rate": 79.6,
+    "podium_rate": 21.3,
+    "wins": 11,
+    "races": 108
+  },
+  "Franck Montagny": {
+    "avg_finish": 16.67,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Pedro de la Rosa": {
+    "avg_finish": 12.34,
+    "top10_rate": 35.7,
+    "podium_rate": 1.8,
+    "wins": 0,
+    "races": 56
+  },
+  "Robert Doornbos": {
+    "avg_finish": 14.11,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Narain Karthikeyan": {
+    "avg_finish": 17.18,
+    "top10_rate": 3.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 33
+  },
+  "Patrick Friesacher": {
+    "avg_finish": 14.4,
+    "top10_rate": 20.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Ricardo Zonta": {
+    "avg_finish": 9.89,
+    "top10_rate": 57.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 19
+  },
+  "Ant\u00f4nio Pizzonia": {
+    "avg_finish": 9.91,
+    "top10_rate": 72.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 11
+  },
+  "Cristiano da Matta": {
+    "avg_finish": 9.85,
+    "top10_rate": 55.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 20
+  },
+  "Olivier Panis": {
+    "avg_finish": 8.73,
+    "top10_rate": 65.7,
+    "podium_rate": 5.1,
+    "wins": 1,
+    "races": 99
+  },
+  "Giorgio Pantano": {
+    "avg_finish": 14.67,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Gianmaria Bruni": {
+    "avg_finish": 15.89,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Zsolt Baumgartner": {
+    "avg_finish": 13.5,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Marc Gen\u00e9": {
+    "avg_finish": 11.35,
+    "top10_rate": 47.8,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 23
+  },
+  "Heinz-Harald Frentzen": {
+    "avg_finish": 6.52,
+    "top10_rate": 85.4,
+    "podium_rate": 18.8,
+    "wins": 3,
+    "races": 96
+  },
+  "Jos Verstappen": {
+    "avg_finish": 10.53,
+    "top10_rate": 49.0,
+    "podium_rate": 4.1,
+    "wins": 0,
+    "races": 49
+  },
+  "Justin Wilson": {
+    "avg_finish": 12.57,
+    "top10_rate": 14.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Ralph Firman": {
+    "avg_finish": 11.75,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Nicolas Kiesa": {
+    "avg_finish": 12.8,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Luciano Burti": {
+    "avg_finish": 10.22,
+    "top10_rate": 44.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Jean Alesi": {
+    "avg_finish": 6.21,
+    "top10_rate": 89.1,
+    "podium_rate": 26.9,
+    "wins": 1,
+    "races": 119
+  },
+  "Eddie Irvine": {
+    "avg_finish": 5.99,
+    "top10_rate": 89.4,
+    "podium_rate": 30.6,
+    "wins": 4,
+    "races": 85
+  },
+  "Mika H\u00e4kkinen": {
+    "avg_finish": 4.47,
+    "top10_rate": 93.2,
+    "podium_rate": 49.5,
+    "wins": 20,
+    "races": 103
+  },
+  "Tarso Marques": {
+    "avg_finish": 12.7,
+    "top10_rate": 30.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Enrique Bernoldi": {
+    "avg_finish": 11.44,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Gast\u00f3n Mazzacane": {
+    "avg_finish": 12.54,
+    "top10_rate": 23.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 13
+  },
+  "Tom\u00e1\u0161 Enge": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Alex Yoong": {
+    "avg_finish": 12.17,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Mika Salo": {
+    "avg_finish": 8.67,
+    "top10_rate": 75.0,
+    "podium_rate": 3.1,
+    "wins": 0,
+    "races": 64
+  },
+  "Pedro Diniz": {
+    "avg_finish": 9.36,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 39
+  },
+  "Johnny Herbert": {
+    "avg_finish": 7.72,
+    "top10_rate": 77.8,
+    "podium_rate": 7.8,
+    "wins": 3,
+    "races": 90
+  },
+  "Allan McNish": {
+    "avg_finish": 10.88,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "S\u00e9bastien Buemi": {
+    "avg_finish": 11.98,
+    "top10_rate": 37.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 40
+  },
+  "Toranosuke Takagi": {
+    "avg_finish": 11.67,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Luca Badoer": {
+    "avg_finish": 11.6,
+    "top10_rate": 44.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 25
+  },
+  "Alessandro Zanardi": {
+    "avg_finish": 10.28,
+    "top10_rate": 55.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 18
+  },
+  "Damon Hill": {
+    "avg_finish": 4.48,
+    "top10_rate": 90.9,
+    "podium_rate": 54.5,
+    "wins": 22,
+    "races": 77
+  },
+  "St\u00e9phane Sarrazin": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ricardo Rosset": {
+    "avg_finish": 11.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Esteban Tuero": {
+    "avg_finish": 12.5,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Shinji Nakano": {
+    "avg_finish": 10.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 18
+  },
+  "Jan Magnussen": {
+    "avg_finish": 9.89,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Gerhard Berger": {
+    "avg_finish": 5.1,
+    "top10_rate": 90.3,
+    "podium_rate": 38.7,
+    "wins": 10,
+    "races": 124
+  },
+  "Nicola Larini": {
+    "avg_finish": 10.81,
+    "top10_rate": 46.2,
+    "podium_rate": 3.8,
+    "wins": 0,
+    "races": 26
+  },
+  "Ukyo Katayama": {
+    "avg_finish": 10.91,
+    "top10_rate": 48.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 33
+  },
+  "Vincenzo Sospiri": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Gianni Morbidelli": {
+    "avg_finish": 10.29,
+    "top10_rate": 52.9,
+    "podium_rate": 2.9,
+    "wins": 0,
+    "races": 34
+  },
+  "Norberto Fontana": {
+    "avg_finish": 10.67,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Pedro Lamy": {
+    "avg_finish": 10.74,
+    "top10_rate": 47.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 19
+  },
+  "Martin Brundle": {
+    "avg_finish": 7.19,
+    "top10_rate": 83.1,
+    "podium_rate": 10.8,
+    "wins": 0,
+    "races": 83
+  },
+  "Andrea Montermini": {
+    "avg_finish": 9.75,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Giovanni Lavaggi": {
+    "avg_finish": 12.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Mark Blundell": {
+    "avg_finish": 7.55,
+    "top10_rate": 80.6,
+    "podium_rate": 9.7,
+    "wins": 0,
+    "races": 31
+  },
+  "Aguri Suzuki": {
+    "avg_finish": 9.16,
+    "top10_rate": 68.0,
+    "podium_rate": 4.0,
+    "wins": 0,
+    "races": 25
+  },
+  "Taki Inoue": {
+    "avg_finish": 11.2,
+    "top10_rate": 40.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Roberto Moreno": {
+    "avg_finish": 9.76,
+    "top10_rate": 58.8,
+    "podium_rate": 5.9,
+    "wins": 0,
+    "races": 17
+  },
+  "Karl Wendlinger": {
+    "avg_finish": 9.56,
+    "top10_rate": 61.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 18
+  },
+  "Bertrand Gachot": {
+    "avg_finish": 10.07,
+    "top10_rate": 53.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 15
+  },
+  "Domenico Schiattarella": {
+    "avg_finish": 14.33,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Pierluigi Martini": {
+    "avg_finish": 9.31,
+    "top10_rate": 67.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 55
+  },
+  "Nigel Mansell": {
+    "avg_finish": 3.92,
+    "top10_rate": 91.8,
+    "podium_rate": 60.2,
+    "wins": 31,
+    "races": 98
+  },
+  "Jean-Christophe Boullion": {
+    "avg_finish": 8.71,
+    "top10_rate": 71.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Massimiliano Papis": {
+    "avg_finish": 9.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Jean-Denis D\u00e9l\u00e9traz": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Gabriele Tarquini": {
+    "avg_finish": 10.69,
+    "top10_rate": 38.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 13
+  },
+  "\u00c9rik Comas": {
+    "avg_finish": 9.28,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 32
+  },
+  "David Brabham": {
+    "avg_finish": 12.71,
+    "top10_rate": 14.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Ayrton Senna": {
+    "avg_finish": 3.15,
+    "top10_rate": 96.3,
+    "podium_rate": 74.1,
+    "wins": 41,
+    "races": 108
+  },
+  "\u00c9ric Bernard": {
+    "avg_finish": 9.23,
+    "top10_rate": 72.7,
+    "podium_rate": 4.5,
+    "wins": 0,
+    "races": 22
+  },
+  "Christian Fittipaldi": {
+    "avg_finish": 8.96,
+    "top10_rate": 69.2,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 26
+  },
+  "Michele Alboreto": {
+    "avg_finish": 7.51,
+    "top10_rate": 72.5,
+    "podium_rate": 22.5,
+    "wins": 5,
+    "races": 102
+  },
+  "Olivier Beretta": {
+    "avg_finish": 9.5,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Roland Ratzenberger": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Paul Belmondo": {
+    "avg_finish": 12.2,
+    "top10_rate": 20.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Jyrki J\u00e4rvilehto": {
+    "avg_finish": 8.68,
+    "top10_rate": 75.0,
+    "podium_rate": 3.6,
+    "wins": 0,
+    "races": 28
+  },
+  "Andrea de Cesaris": {
+    "avg_finish": 8.34,
+    "top10_rate": 73.2,
+    "podium_rate": 7.0,
+    "wins": 0,
+    "races": 71
+  },
+  "Jean-Marc Gounon": {
+    "avg_finish": 12.75,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Philippe Alliot": {
+    "avg_finish": 10.3,
+    "top10_rate": 59.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 44
+  },
+  "Philippe Adams": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Yannick Dalmas": {
+    "avg_finish": 11.2,
+    "top10_rate": 46.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 15
+  },
+  "Hideki Noda": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Franck Lagorce": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Alain Prost": {
+    "avg_finish": 2.96,
+    "top10_rate": 96.5,
+    "podium_rate": 74.1,
+    "wins": 51,
+    "races": 143
+  },
+  "Derek Warwick": {
+    "avg_finish": 7.7,
+    "top10_rate": 82.1,
+    "podium_rate": 6.0,
+    "wins": 0,
+    "races": 67
+  },
+  "Riccardo Patrese": {
+    "avg_finish": 6.44,
+    "top10_rate": 85.7,
+    "podium_rate": 29.4,
+    "wins": 6,
+    "races": 126
+  },
+  "Fabrizio Barbazza": {
+    "avg_finish": 7.67,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Michael Andretti": {
+    "avg_finish": 7.33,
+    "top10_rate": 83.3,
+    "podium_rate": 16.7,
+    "wins": 0,
+    "races": 6
+  },
+  "Ivan Capelli": {
+    "avg_finish": 8.14,
+    "top10_rate": 75.9,
+    "podium_rate": 10.3,
+    "wins": 0,
+    "races": 29
+  },
+  "Thierry Boutsen": {
+    "avg_finish": 7.41,
+    "top10_rate": 81.4,
+    "podium_rate": 15.5,
+    "wins": 3,
+    "races": 97
+  },
+  "Marco Apicella": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Emanuele Naspetti": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Toshio Suzuki": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Maur\u00edcio Gugelmin": {
+    "avg_finish": 9.19,
+    "top10_rate": 67.7,
+    "podium_rate": 3.2,
+    "wins": 0,
+    "races": 31
+  },
+  "Eric van de Poele": {
+    "avg_finish": 10.67,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Olivier Grouillard": {
+    "avg_finish": 11.14,
+    "top10_rate": 42.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 14
+  },
+  "Andrea Chiesa": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Stefano Modena": {
+    "avg_finish": 10.13,
+    "top10_rate": 43.3,
+    "podium_rate": 6.7,
+    "wins": 0,
+    "races": 30
+  },
+  "Giovanna Amati": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alex Caffi": {
+    "avg_finish": 9.38,
+    "top10_rate": 69.2,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 26
+  },
+  "Enrico Bertaggia": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Perry McCarthy": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jan Lammers": {
+    "avg_finish": 12.17,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Nelson Piquet": {
+    "avg_finish": 4.14,
+    "top10_rate": 94.3,
+    "podium_rate": 49.2,
+    "wins": 23,
+    "races": 122
+  },
+  "Satoru Nakajima": {
+    "avg_finish": 8.51,
+    "top10_rate": 77.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 35
+  },
+  "Emanuele Pirro": {
+    "avg_finish": 9.71,
+    "top10_rate": 70.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 17
+  },
+  "Stefan Johansson": {
+    "avg_finish": 6.09,
+    "top10_rate": 86.4,
+    "podium_rate": 27.3,
+    "wins": 0,
+    "races": 44
+  },
+  "Julian Bailey": {
+    "avg_finish": 11.4,
+    "top10_rate": 40.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Pedro Chaves": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Michael Bartels": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Naoki Hattori": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alessandro Nannini": {
+    "avg_finish": 6.84,
+    "top10_rate": 77.4,
+    "podium_rate": 29.0,
+    "wins": 1,
+    "races": 31
+  },
+  "Bernd Schneider": {
+    "avg_finish": 12.33,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Paolo Barilla": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Gregor Foitek": {
+    "avg_finish": 11.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Claudio Langes": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Gary Brabham": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Martin Donnelly": {
+    "avg_finish": 9.83,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Bruno Giacomelli": {
+    "avg_finish": 9.43,
+    "top10_rate": 64.3,
+    "podium_rate": 3.6,
+    "wins": 0,
+    "races": 28
+  },
+  "Jaime Alguersuari": {
+    "avg_finish": 12.08,
+    "top10_rate": 27.8,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 36
+  },
+  "Romain Grosjean": {
+    "avg_finish": 11.07,
+    "top10_rate": 44.0,
+    "podium_rate": 7.5,
+    "wins": 0,
+    "races": 134
+  },
+  "Kamui Kobayashi": {
+    "avg_finish": 10.85,
+    "top10_rate": 52.8,
+    "podium_rate": 1.9,
+    "wins": 0,
+    "races": 53
+  },
+  "Jonathan Palmer": {
+    "avg_finish": 9.42,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 45
+  },
+  "Christian Danner": {
+    "avg_finish": 8.8,
+    "top10_rate": 73.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 15
+  },
+  "Eddie Cheever": {
+    "avg_finish": 7.55,
+    "top10_rate": 78.2,
+    "podium_rate": 16.4,
+    "wins": 0,
+    "races": 55
+  },
+  "Luis P\u00e9rez-Sala": {
+    "avg_finish": 11.0,
+    "top10_rate": 36.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 11
+  },
+  "Piercarlo Ghinzani": {
+    "avg_finish": 10.7,
+    "top10_rate": 40.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 20
+  },
+  "Volker Weidler": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Pierre-Henri Raphanel": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ren\u00e9 Arnoux": {
+    "avg_finish": 6.9,
+    "top10_rate": 82.9,
+    "podium_rate": 26.8,
+    "wins": 7,
+    "races": 82
+  },
+  "Joachim Winkelhock": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Oscar Larrauri": {
+    "avg_finish": 14.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Philippe Streiff": {
+    "avg_finish": 8.87,
+    "top10_rate": 70.0,
+    "podium_rate": 3.3,
+    "wins": 0,
+    "races": 30
+  },
+  "Adri\u00e1n Campos": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Jean-Louis Schlesser": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Pascal Fabre": {
+    "avg_finish": 11.38,
+    "top10_rate": 37.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Teo Fabi": {
+    "avg_finish": 6.94,
+    "top10_rate": 88.9,
+    "podium_rate": 11.1,
+    "wins": 0,
+    "races": 18
+  },
+  "Franco Forini": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jacques Laffite": {
+    "avg_finish": 5.9,
+    "top10_rate": 85.1,
+    "podium_rate": 34.0,
+    "wins": 6,
+    "races": 94
+  },
+  "Elio de Angelis": {
+    "avg_finish": 5.8,
+    "top10_rate": 91.5,
+    "podium_rate": 15.3,
+    "wins": 2,
+    "races": 59
+  },
+  "Johnny Dumfries": {
+    "avg_finish": 7.17,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Patrick Tambay": {
+    "avg_finish": 6.25,
+    "top10_rate": 91.2,
+    "podium_rate": 19.3,
+    "wins": 2,
+    "races": 57
+  },
+  "Marc Surer": {
+    "avg_finish": 8.98,
+    "top10_rate": 72.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 51
+  },
+  "Keke Rosberg": {
+    "avg_finish": 5.85,
+    "top10_rate": 88.1,
+    "podium_rate": 28.8,
+    "wins": 5,
+    "races": 59
+  },
+  "Alan Jones": {
+    "avg_finish": 6.24,
+    "top10_rate": 79.4,
+    "podium_rate": 35.3,
+    "wins": 12,
+    "races": 68
+  },
+  "Huub Rothengatter": {
+    "avg_finish": 8.83,
+    "top10_rate": 83.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Allen Berg": {
+    "avg_finish": 13.67,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Manfred Winkelhock": {
+    "avg_finish": 10.15,
+    "top10_rate": 53.8,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 13
+  },
+  "Niki Lauda": {
+    "avg_finish": 4.26,
+    "top10_rate": 89.0,
+    "podium_rate": 59.3,
+    "wins": 25,
+    "races": 91
+  },
+  "Fran\u00e7ois Hesnault": {
+    "avg_finish": 8.6,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Mauro Baldi": {
+    "avg_finish": 8.88,
+    "top10_rate": 76.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 17
+  },
+  "Stefan Bellof": {
+    "avg_finish": 8.57,
+    "top10_rate": 57.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Kenny Acheson": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "John Watson": {
+    "avg_finish": 6.6,
+    "top10_rate": 83.3,
+    "podium_rate": 22.2,
+    "wins": 5,
+    "races": 90
+  },
+  "Johnny Cecotto": {
+    "avg_finish": 10.29,
+    "top10_rate": 42.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Jo Gartner": {
+    "avg_finish": 11.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Corrado Fabi": {
+    "avg_finish": 9.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Mike Thackwell": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Chico Serra": {
+    "avg_finish": 9.55,
+    "top10_rate": 54.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 11
+  },
+  "Danny Sullivan": {
+    "avg_finish": 9.86,
+    "top10_rate": 42.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Eliseo Salazar": {
+    "avg_finish": 10.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Roberto Guerrero": {
+    "avg_finish": 12.2,
+    "top10_rate": 20.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Raul Boesel": {
+    "avg_finish": 10.9,
+    "top10_rate": 60.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Jean-Pierre Jarier": {
+    "avg_finish": 9.13,
+    "top10_rate": 68.3,
+    "podium_rate": 4.8,
+    "wins": 0,
+    "races": 63
+  },
+  "Jacques Villeneuve Sr.": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Carlos Reutemann": {
+    "avg_finish": 5.22,
+    "top10_rate": 88.7,
+    "podium_rate": 46.4,
+    "wins": 12,
+    "races": 97
+  },
+  "Jochen Mass": {
+    "avg_finish": 7.72,
+    "top10_rate": 75.0,
+    "podium_rate": 12.5,
+    "wins": 1,
+    "races": 64
+  },
+  "Slim Borgudd": {
+    "avg_finish": 10.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Didier Pironi": {
+    "avg_finish": 6.16,
+    "top10_rate": 90.9,
+    "podium_rate": 29.5,
+    "wins": 3,
+    "races": 44
+  },
+  "Gilles Villeneuve": {
+    "avg_finish": 5.95,
+    "top10_rate": 87.2,
+    "podium_rate": 33.3,
+    "wins": 6,
+    "races": 39
+  },
+  "Riccardo Paletti": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Brian Henton": {
+    "avg_finish": 9.7,
+    "top10_rate": 80.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Derek Daly": {
+    "avg_finish": 8.54,
+    "top10_rate": 73.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 26
+  },
+  "Mario Andretti": {
+    "avg_finish": 5.71,
+    "top10_rate": 88.7,
+    "podium_rate": 30.6,
+    "wins": 12,
+    "races": 62
+  },
+  "Emilio de Villota": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Geoff Lees": {
+    "avg_finish": 10.67,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Tommy Byrne": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Rupert Keegan": {
+    "avg_finish": 10.67,
+    "top10_rate": 41.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Hector Rebaque": {
+    "avg_finish": 7.73,
+    "top10_rate": 80.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 15
+  },
+  "Beppe Gabbiani": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Kevin Cogan": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Miguel \u00c1ngel Guerra": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Siegfried Stohr": {
+    "avg_finish": 9.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Ricardo Zunino": {
+    "avg_finish": 9.67,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Ricardo Londo\u00f1o": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jean-Pierre Jabouille": {
+    "avg_finish": 8.7,
+    "top10_rate": 60.0,
+    "podium_rate": 20.0,
+    "wins": 2,
+    "races": 10
+  },
+  "Giorgio Francia": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Patrick Depailler": {
+    "avg_finish": 5.5,
+    "top10_rate": 88.9,
+    "podium_rate": 35.2,
+    "wins": 2,
+    "races": 54
+  },
+  "Jody Scheckter": {
+    "avg_finish": 5.19,
+    "top10_rate": 88.3,
+    "podium_rate": 42.9,
+    "wins": 10,
+    "races": 77
+  },
+  "Clay Regazzoni": {
+    "avg_finish": 6.0,
+    "top10_rate": 85.5,
+    "podium_rate": 33.7,
+    "wins": 5,
+    "races": 83
+  },
+  "Emerson Fittipaldi": {
+    "avg_finish": 6.02,
+    "top10_rate": 80.9,
+    "podium_rate": 37.2,
+    "wins": 14,
+    "races": 94
+  },
+  "Dave Kennedy": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Stephen South": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Tiff Needell": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Desir\u00e9 Wilson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Harald Ertl": {
+    "avg_finish": 10.91,
+    "top10_rate": 54.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 11
+  },
+  "Vittorio Brambilla": {
+    "avg_finish": 9.41,
+    "top10_rate": 67.6,
+    "podium_rate": 2.7,
+    "wins": 1,
+    "races": 37
+  },
+  "James Hunt": {
+    "avg_finish": 4.2,
+    "top10_rate": 97.8,
+    "podium_rate": 50.0,
+    "wins": 10,
+    "races": 46
+  },
+  "Arturo Merzario": {
+    "avg_finish": 9.19,
+    "top10_rate": 62.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 16
+  },
+  "Hans-Joachim Stuck": {
+    "avg_finish": 7.54,
+    "top10_rate": 73.1,
+    "podium_rate": 7.7,
+    "wins": 0,
+    "races": 26
+  },
+  "Gianfranco Brancatelli": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jacky Ickx": {
+    "avg_finish": 5.89,
+    "top10_rate": 84.8,
+    "podium_rate": 37.9,
+    "wins": 8,
+    "races": 66
+  },
+  "Patrick Gaillard": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Alex Ribeiro": {
+    "avg_finish": 11.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Ronnie Peterson": {
+    "avg_finish": 6.07,
+    "top10_rate": 84.5,
+    "podium_rate": 36.6,
+    "wins": 10,
+    "races": 71
+  },
+  "Brett Lunger": {
+    "avg_finish": 11.43,
+    "top10_rate": 39.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 23
+  },
+  "Danny Ongais": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Lamberto Leoni": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Divina Galica": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Rolf Stommelen": {
+    "avg_finish": 10.32,
+    "top10_rate": 44.1,
+    "podium_rate": 2.9,
+    "wins": 0,
+    "races": 34
+  },
+  "Alberto Colombo": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Tony Trimmer": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Hans Binder": {
+    "avg_finish": 10.33,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Michael Bleekemolen": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Carlo Franchi": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Bobby Rahal": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Carlos Pace": {
+    "avg_finish": 7.68,
+    "top10_rate": 78.4,
+    "podium_rate": 16.2,
+    "wins": 1,
+    "races": 37
+  },
+  "Ian Scheckter": {
+    "avg_finish": 11.5,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Tom Pryce": {
+    "avg_finish": 7.14,
+    "top10_rate": 90.9,
+    "podium_rate": 9.1,
+    "wins": 0,
+    "races": 22
+  },
+  "Ingo Hoffmann": {
+    "avg_finish": 9.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Renzo Zorzi": {
+    "avg_finish": 9.67,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Gunnar Nilsson": {
+    "avg_finish": 7.07,
+    "top10_rate": 71.4,
+    "podium_rate": 28.6,
+    "wins": 1,
+    "races": 14
+  },
+  "Larry Perkins": {
+    "avg_finish": 13.0,
+    "top10_rate": 20.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Boy Lunger": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Patrick N\u00e8ve": {
+    "avg_finish": 12.38,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "David Purley": {
+    "avg_finish": 12.75,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Conny Andersson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Bernard de Dryver": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jackie Oliver": {
+    "avg_finish": 7.56,
+    "top10_rate": 81.2,
+    "podium_rate": 12.5,
+    "wins": 0,
+    "races": 16
+  },
+  "Mikko Kozarowitzky": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Andy Sutcliffe": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Guy Edwards": {
+    "avg_finish": 13.12,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Brian McGuire": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Vern Schuppan": {
+    "avg_finish": 12.5,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Hans Heyer": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Teddy Pilette": {
+    "avg_finish": 17.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ian Ashley": {
+    "avg_finish": 15.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Loris Kessel": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Kunimitsu Takahashi": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Kazuyoshi Hoshino": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Noritake Takahara": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Lella Lombardi": {
+    "avg_finish": 12.57,
+    "top10_rate": 28.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Bob Evans": {
+    "avg_finish": 12.8,
+    "top10_rate": 40.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Michel Lecl\u00e8re": {
+    "avg_finish": 11.6,
+    "top10_rate": 20.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Chris Amon": {
+    "avg_finish": 6.9,
+    "top10_rate": 82.4,
+    "podium_rate": 21.6,
+    "wins": 0,
+    "races": 51
+  },
+  "Emilio Zapico": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Henri Pescarolo": {
+    "avg_finish": 9.84,
+    "top10_rate": 61.3,
+    "podium_rate": 3.2,
+    "wins": 0,
+    "races": 31
+  },
+  "Jac Nelleman": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Damien Magee": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mike Wilds": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alessandro Pesenti-Rossi": {
+    "avg_finish": 14.33,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Otto Stuppacher": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Warwick Brown": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Masahiro Hasemi": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mark Donohue": {
+    "avg_finish": 7.38,
+    "top10_rate": 75.0,
+    "podium_rate": 12.5,
+    "wins": 0,
+    "races": 8
+  },
+  "Graham Hill": {
+    "avg_finish": 6.01,
+    "top10_rate": 84.3,
+    "podium_rate": 35.3,
+    "wins": 14,
+    "races": 102
+  },
+  "Wilson Fittipaldi": {
+    "avg_finish": 10.82,
+    "top10_rate": 47.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 17
+  },
+  "Guy Tunmer": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Eddie Keizan": {
+    "avg_finish": 13.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Dave Charlton": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Tony Brise": {
+    "avg_finish": 9.5,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Roelof Wunderink": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Fran\u00e7ois Migault": {
+    "avg_finish": 15.25,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Torsten Palm": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Gijs van Lennep": {
+    "avg_finish": 9.71,
+    "top10_rate": 71.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Hiroshi Fushida": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Nicholson": {
+    "avg_finish": 17.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Dave Morgan": {
+    "avg_finish": 18.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jim Crawford": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jo Vonlanthen": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Denny Hulme": {
+    "avg_finish": 4.79,
+    "top10_rate": 92.3,
+    "podium_rate": 42.3,
+    "wins": 8,
+    "races": 78
+  },
+  "Mike Hailwood": {
+    "avg_finish": 7.93,
+    "top10_rate": 81.5,
+    "podium_rate": 7.4,
+    "wins": 0,
+    "races": 27
+  },
+  "Jean-Pierre Beltoise": {
+    "avg_finish": 6.67,
+    "top10_rate": 87.8,
+    "podium_rate": 16.3,
+    "wins": 1,
+    "races": 49
+  },
+  "Howden Ganley": {
+    "avg_finish": 8.48,
+    "top10_rate": 81.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 21
+  },
+  "Richard Robarts": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Peter Revson": {
+    "avg_finish": 5.76,
+    "top10_rate": 85.7,
+    "podium_rate": 38.1,
+    "wins": 2,
+    "races": 21
+  },
+  "Paddy Driver": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Tom Bels\u00f8": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Brian Redman": {
+    "avg_finish": 7.71,
+    "top10_rate": 85.7,
+    "podium_rate": 14.3,
+    "wins": 0,
+    "races": 7
+  },
+  "Rikky von Opel": {
+    "avg_finish": 11.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Tim Schenken": {
+    "avg_finish": 10.12,
+    "top10_rate": 56.2,
+    "podium_rate": 6.2,
+    "wins": 0,
+    "races": 16
+  },
+  "G\u00e9rard Larrousse": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Leo Kinnunen": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Reine Wisell": {
+    "avg_finish": 6.5,
+    "top10_rate": 87.5,
+    "podium_rate": 12.5,
+    "wins": 0,
+    "races": 8
+  },
+  "Bertil Roos": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jos\u00e9 Dolhem": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Peter Gethin": {
+    "avg_finish": 9.09,
+    "top10_rate": 72.7,
+    "podium_rate": 9.1,
+    "wins": 1,
+    "races": 11
+  },
+  "Derek Bell": {
+    "avg_finish": 8.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "David Hobbs": {
+    "avg_finish": 8.83,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Dieter Quester": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Helmuth Koinigg": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Carlo Facetti": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Eppie Wietzes": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Fran\u00e7ois Cevert": {
+    "avg_finish": 5.03,
+    "top10_rate": 96.6,
+    "podium_rate": 44.8,
+    "wins": 1,
+    "races": 29
+  },
+  "Jackie Stewart": {
+    "avg_finish": 2.95,
+    "top10_rate": 96.8,
+    "podium_rate": 68.3,
+    "wins": 27,
+    "races": 63
+  },
+  "Mike Beuttler": {
+    "avg_finish": 11.46,
+    "top10_rate": 46.2,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 13
+  },
+  "Nanni Galli": {
+    "avg_finish": 12.0,
+    "top10_rate": 14.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Luiz Bueno": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "George Follmer": {
+    "avg_finish": 10.57,
+    "top10_rate": 57.1,
+    "podium_rate": 14.3,
+    "wins": 0,
+    "races": 7
+  },
+  "Andrea de Adamich": {
+    "avg_finish": 9.58,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Jackie Pretorius": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Roger Williamson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Graham McRae": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Helmut Marko": {
+    "avg_finish": 11.14,
+    "top10_rate": 42.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "David Walker": {
+    "avg_finish": 13.0,
+    "top10_rate": 40.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Alex Soler-Roig": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Love": {
+    "avg_finish": 8.67,
+    "top10_rate": 83.3,
+    "podium_rate": 16.7,
+    "wins": 0,
+    "races": 6
+  },
+  "John Surtees": {
+    "avg_finish": 4.76,
+    "top10_rate": 92.6,
+    "podium_rate": 44.4,
+    "wins": 6,
+    "races": 54
+  },
+  "Skip Barber": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Brack": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Sam Posey": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Pedro Rodr\u00edguez": {
+    "avg_finish": 5.31,
+    "top10_rate": 96.6,
+    "podium_rate": 24.1,
+    "wins": 2,
+    "races": 29
+  },
+  "Jo Siffert": {
+    "avg_finish": 7.13,
+    "top10_rate": 86.5,
+    "podium_rate": 11.5,
+    "wins": 2,
+    "races": 52
+  },
+  "Jo Bonnier": {
+    "avg_finish": 7.32,
+    "top10_rate": 88.0,
+    "podium_rate": 2.0,
+    "wins": 1,
+    "races": 50
+  },
+  "Fran\u00e7ois Mazet": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Max Jean": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Vic Elford": {
+    "avg_finish": 7.0,
+    "top10_rate": 87.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Silvio Moser": {
+    "avg_finish": 7.25,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "George Eaton": {
+    "avg_finish": 12.0,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Pete Lovely": {
+    "avg_finish": 9.0,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Chris Craft": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Cannon": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jack Brabham": {
+    "avg_finish": 4.63,
+    "top10_rate": 91.8,
+    "podium_rate": 42.5,
+    "wins": 14,
+    "races": 73
+  },
+  "John Miles": {
+    "avg_finish": 7.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Jochen Rindt": {
+    "avg_finish": 4.2,
+    "top10_rate": 88.0,
+    "podium_rate": 52.0,
+    "wins": 6,
+    "races": 25
+  },
+  "Johnny Servoz-Gavin": {
+    "avg_finish": 5.25,
+    "top10_rate": 100.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Bruce McLaren": {
+    "avg_finish": 4.68,
+    "top10_rate": 92.1,
+    "podium_rate": 42.9,
+    "wins": 4,
+    "races": 63
+  },
+  "Piers Courage": {
+    "avg_finish": 5.56,
+    "top10_rate": 100.0,
+    "podium_rate": 22.2,
+    "wins": 0,
+    "races": 9
+  },
+  "Peter de Klerk": {
+    "avg_finish": 10.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Ignazio Giunti": {
+    "avg_finish": 8.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Dan Gurney": {
+    "avg_finish": 5.3,
+    "top10_rate": 93.2,
+    "podium_rate": 43.2,
+    "wins": 4,
+    "races": 44
+  },
+  "Hubert Hahne": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Gus Hutchison": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Peter Westbury": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Sam Tingle": {
+    "avg_finish": 10.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Basil van Rooyen": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Richard Attwood": {
+    "avg_finish": 8.75,
+    "top10_rate": 66.7,
+    "podium_rate": 8.3,
+    "wins": 0,
+    "races": 12
+  },
+  "Al Pease": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Cordts": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jim Clark": {
+    "avg_finish": 3.84,
+    "top10_rate": 92.0,
+    "podium_rate": 64.0,
+    "wins": 25,
+    "races": 50
+  },
+  "Mike Spence": {
+    "avg_finish": 6.4,
+    "top10_rate": 90.0,
+    "podium_rate": 5.0,
+    "wins": 0,
+    "races": 20
+  },
+  "Ludovico Scarfiotti": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 16.7,
+    "wins": 1,
+    "races": 6
+  },
+  "Lucien Bianchi": {
+    "avg_finish": 8.67,
+    "top10_rate": 66.7,
+    "podium_rate": 16.7,
+    "wins": 0,
+    "races": 6
+  },
+  "Jo Schlesser": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Robin Widdows": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Kurt Ahrens": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Frank Gardner": {
+    "avg_finish": 10.33,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Bobby Unser": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Mois\u00e9s Solana": {
+    "avg_finish": 11.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Bob Anderson": {
+    "avg_finish": 8.2,
+    "top10_rate": 73.3,
+    "podium_rate": 6.7,
+    "wins": 0,
+    "races": 15
+  },
+  "Luki Botha": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Lorenzo Bandini": {
+    "avg_finish": 6.14,
+    "top10_rate": 92.9,
+    "podium_rate": 28.6,
+    "wins": 1,
+    "races": 28
+  },
+  "Richie Ginther": {
+    "avg_finish": 5.28,
+    "top10_rate": 89.7,
+    "podium_rate": 35.9,
+    "wins": 1,
+    "races": 39
+  },
+  "Mike Parkes": {
+    "avg_finish": 3.0,
+    "top10_rate": 100.0,
+    "podium_rate": 66.7,
+    "wins": 0,
+    "races": 3
+  },
+  "Chris Irwin": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Guy Ligier": {
+    "avg_finish": 9.67,
+    "top10_rate": 83.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Alan Rees": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Brian Hart": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Mike Fisher": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Tom Jones": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Giancarlo Baghetti": {
+    "avg_finish": 8.0,
+    "top10_rate": 80.0,
+    "podium_rate": 10.0,
+    "wins": 1,
+    "races": 10
+  },
+  "Jonathan Williams": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bob Bondurant": {
+    "avg_finish": 7.25,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Peter Arundell": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Vic Wilson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Taylor": {
+    "avg_finish": 9.0,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Chris Lawrence": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Trevor Taylor": {
+    "avg_finish": 8.42,
+    "top10_rate": 75.0,
+    "podium_rate": 8.3,
+    "wins": 0,
+    "races": 12
+  },
+  "Giacomo Russo": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Phil Hill": {
+    "avg_finish": 5.15,
+    "top10_rate": 90.9,
+    "podium_rate": 48.5,
+    "wins": 3,
+    "races": 33
+  },
+  "Innes Ireland": {
+    "avg_finish": 6.88,
+    "top10_rate": 88.5,
+    "podium_rate": 15.4,
+    "wins": 1,
+    "races": 26
+  },
+  "Ronnie Bucknum": {
+    "avg_finish": 9.75,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Paul Hawkins": {
+    "avg_finish": 9.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "David Prophet": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Tony Maggs": {
+    "avg_finish": 6.67,
+    "top10_rate": 83.3,
+    "podium_rate": 16.7,
+    "wins": 0,
+    "races": 18
+  },
+  "Trevor Blokdyk": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Neville Lederle": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Doug Serrurier": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Brausch Niemann": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ernie Pieterse": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Clive Puzey": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ray Reed": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "David Clapham": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alex Blignaut": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Masten Gregory": {
+    "avg_finish": 8.0,
+    "top10_rate": 63.6,
+    "podium_rate": 13.6,
+    "wins": 0,
+    "races": 22
+  },
+  "John Rhodes": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ian Raby": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Alan Rollinson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Brian Gubby": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Gerhard Mitter": {
+    "avg_finish": 6.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Roberto Bussinello": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Nino Vaccarella": {
+    "avg_finish": 12.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Giorgio Bassi": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Maurice Trintignant": {
+    "avg_finish": 6.14,
+    "top10_rate": 88.6,
+    "podium_rate": 22.7,
+    "wins": 2,
+    "races": 44
+  },
+  "Bernard Collomb": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Andr\u00e9 Pilette": {
+    "avg_finish": 7.71,
+    "top10_rate": 71.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Carel Godin de Beaufort": {
+    "avg_finish": 10.09,
+    "top10_rate": 60.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 23
+  },
+  "Edgar Barth": {
+    "avg_finish": 8.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "M\u00e1rio de Ara\u00fajo Cabral": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Walt Hansgen": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Hap Sharp": {
+    "avg_finish": 10.25,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Willy Mairesse": {
+    "avg_finish": 4.67,
+    "top10_rate": 100.0,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 3
+  },
+  "John Campbell-Jones": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Ian Burgess": {
+    "avg_finish": 11.11,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Tony Settember": {
+    "avg_finish": 9.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Nasif Est\u00e9fano": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jim Hall": {
+    "avg_finish": 7.88,
+    "top10_rate": 87.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Tim Parnell": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Kurt Kuhnke": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ernesto Brambilla": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Roberto Lippi": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "G\u00fcnther Seiffert": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Carlo Abate": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Gaetano Starrabba": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Peter Broeker": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Rodger Ward": {
+    "avg_finish": 6.75,
+    "top10_rate": 75.0,
+    "podium_rate": 50.0,
+    "wins": 1,
+    "races": 4
+  },
+  "Ernie de Vos": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Frank Dochnal": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Thomas Monarch": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Pierre Gasly": {
+    "avg_finish": 10.07,
+    "top10_rate": 52.4,
+    "podium_rate": 3.2,
+    "wins": 1,
+    "races": 124
+  },
+  "Jackie Lewis": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Ricardo Rodr\u00edguez": {
+    "avg_finish": 8.0,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Wolfgang Seidel": {
+    "avg_finish": 14.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Roy Salvadori": {
+    "avg_finish": 6.79,
+    "top10_rate": 89.5,
+    "podium_rate": 10.5,
+    "wins": 0,
+    "races": 19
+  },
+  "Ben Pon": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Rob Slotemaker": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Tony Marsh": {
+    "avg_finish": 12.67,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Gerry Ashmore": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Heinz Schiller": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Colin Davis": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jay Chamberlain": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Tony Shelly": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Keith Greene": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Heini Walter": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ernesto Prinoth": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Roger Penske": {
+    "avg_finish": 8.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Rob Schroeder": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Timmy Mayer": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Bruce Johnstone": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mike Harris": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Gary Hocking": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Syd van der Vyver": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Stirling Moss": {
+    "avg_finish": 3.46,
+    "top10_rate": 97.3,
+    "podium_rate": 64.9,
+    "wins": 16,
+    "races": 37
+  },
+  "Wolfgang von Trips": {
+    "avg_finish": 4.74,
+    "top10_rate": 94.7,
+    "podium_rate": 31.6,
+    "wins": 2,
+    "races": 19
+  },
+  "Cliff Allison": {
+    "avg_finish": 6.7,
+    "top10_rate": 100.0,
+    "podium_rate": 10.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Hans Herrmann": {
+    "avg_finish": 8.0,
+    "top10_rate": 77.8,
+    "podium_rate": 11.1,
+    "wins": 0,
+    "races": 9
+  },
+  "Tony Brooks": {
+    "avg_finish": 5.05,
+    "top10_rate": 90.9,
+    "podium_rate": 45.5,
+    "wins": 6,
+    "races": 22
+  },
+  "Michael May": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Henry Taylor": {
+    "avg_finish": 9.29,
+    "top10_rate": 57.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Olivier Gendebien": {
+    "avg_finish": 6.27,
+    "top10_rate": 81.8,
+    "podium_rate": 18.2,
+    "wins": 0,
+    "races": 11
+  },
+  "Giorgio Scarlatti": {
+    "avg_finish": 8.2,
+    "top10_rate": 80.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Brian Naylor": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Juan Manuel Bordeu": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jack Fairman": {
+    "avg_finish": 5.67,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Massimo Natili": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Peter Monteverdi": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Renato Pirocchi": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Geoff Duke": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alfonso Thiele": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Menato Boffa": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Peter Ryan": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Lloyd Ruby": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ken Miles": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Carlos Menditeguy": {
+    "avg_finish": 4.75,
+    "top10_rate": 100.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Alberto Rodriguez Larreta": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez": {
+    "avg_finish": 3.0,
+    "top10_rate": 100.0,
+    "podium_rate": 78.9,
+    "wins": 2,
+    "races": 19
+  },
+  "Roberto Bonomi": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Gino Munaron": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Harry Schell": {
+    "avg_finish": 6.74,
+    "top10_rate": 90.3,
+    "podium_rate": 6.5,
+    "wins": 0,
+    "races": 31
+  },
+  "Alan Stacey": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ettore Chimeri": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Antonio Creus": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Chris Bristow": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bruce Halford": {
+    "avg_finish": 9.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Chuck Daigh": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Lance Reventlow": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jim Rathmann": {
+    "avg_finish": 8.0,
+    "top10_rate": 66.7,
+    "podium_rate": 44.4,
+    "wins": 1,
+    "races": 9
+  },
+  "Paul Goldsmith": {
+    "avg_finish": 4.0,
+    "top10_rate": 100.0,
+    "podium_rate": 50.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Don Branson": {
+    "avg_finish": 4.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Johnny Thomson": {
+    "avg_finish": 6.0,
+    "top10_rate": 75.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Eddie Johnson": {
+    "avg_finish": 10.57,
+    "top10_rate": 57.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Bob Veith": {
+    "avg_finish": 9.0,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Bud Tingelstad": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bob Christie": {
+    "avg_finish": 12.0,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Red Amick": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Duane Carter": {
+    "avg_finish": 8.44,
+    "top10_rate": 55.6,
+    "podium_rate": 11.1,
+    "wins": 0,
+    "races": 9
+  },
+  "Bill Homeier": {
+    "avg_finish": 9.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Gene Hartley": {
+    "avg_finish": 13.43,
+    "top10_rate": 28.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Chuck Stevenson": {
+    "avg_finish": 13.5,
+    "top10_rate": 25.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Bobby Grim": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Shorty Templeman": {
+    "avg_finish": 17.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jim Hurtubise": {
+    "avg_finish": 18.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jimmy Bryan": {
+    "avg_finish": 9.14,
+    "top10_rate": 57.1,
+    "podium_rate": 42.9,
+    "wins": 1,
+    "races": 7
+  },
+  "Troy Ruttman": {
+    "avg_finish": 10.0,
+    "top10_rate": 60.0,
+    "podium_rate": 20.0,
+    "wins": 1,
+    "races": 5
+  },
+  "Eddie Sachs": {
+    "avg_finish": 21.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Don Freeland": {
+    "avg_finish": 11.2,
+    "top10_rate": 60.0,
+    "podium_rate": 20.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Tony Bettenhausen": {
+    "avg_finish": 9.62,
+    "top10_rate": 62.5,
+    "podium_rate": 12.5,
+    "wins": 0,
+    "races": 8
+  },
+  "Wayne Weiler": {
+    "avg_finish": 24.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Anthony Foyt": {
+    "avg_finish": 17.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Eddie Russo": {
+    "avg_finish": 26.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Johnny Boyd": {
+    "avg_finish": 10.5,
+    "top10_rate": 75.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Gene Force": {
+    "avg_finish": 28.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jim McWithey": {
+    "avg_finish": 22.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Len Sutton": {
+    "avg_finish": 30.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Dick Rathmann": {
+    "avg_finish": 18.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Al Herman": {
+    "avg_finish": 17.33,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Dempsey Wilson": {
+    "avg_finish": 33.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mike Taylor": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ron Flockhart": {
+    "avg_finish": 7.0,
+    "top10_rate": 80.0,
+    "podium_rate": 20.0,
+    "wins": 0,
+    "races": 5
+  },
+  "David Piper": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Giulio Cabianca": {
+    "avg_finish": 9.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Piero Drogo": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Fred Gamble": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Arthur Owen": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Horace Gould": {
+    "avg_finish": 9.4,
+    "top10_rate": 80.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Bob Drake": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ivor Bueb": {
+    "avg_finish": 10.67,
+    "top10_rate": 33.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Alain de Changy": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Maria de Filippis": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jean Lucienbonnet": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Andr\u00e9 Testut": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jean Behra": {
+    "avg_finish": 4.92,
+    "top10_rate": 100.0,
+    "podium_rate": 36.0,
+    "wins": 0,
+    "races": 25
+  },
+  "Paul Russo": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 16.7,
+    "wins": 0,
+    "races": 6
+  },
+  "Jimmy Daywalt": {
+    "avg_finish": 9.67,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Chuck Arnold": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Al Keller": {
+    "avg_finish": 12.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Pat Flaherty": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 33.3,
+    "wins": 1,
+    "races": 3
+  },
+  "Bill Cheesbourg": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ray Crawford": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jack Turner": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Chuck Weyant": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Jud Larson": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mike Magill": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Carroll Shelby": {
+    "avg_finish": 7.75,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Fritz d'Orey": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Azdrubal Fontes": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Peter Ashdown": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Moss": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Dennis Taylor": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Harry Blanchard": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Alessandro de Tomaso": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "George Constantine": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Bob Said": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Phil Cade": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Luigi Musso": {
+    "avg_finish": 4.21,
+    "top10_rate": 100.0,
+    "podium_rate": 50.0,
+    "wins": 1,
+    "races": 14
+  },
+  "Mike Hawthorn": {
+    "avg_finish": 3.7,
+    "top10_rate": 100.0,
+    "podium_rate": 54.5,
+    "wins": 3,
+    "races": 33
+  },
+  "Juan Fangio": {
+    "avg_finish": 2.25,
+    "top10_rate": 97.7,
+    "podium_rate": 79.5,
+    "wins": 24,
+    "races": 44
+  },
+  "Paco Godia": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Peter Collins": {
+    "avg_finish": 4.19,
+    "top10_rate": 93.8,
+    "podium_rate": 56.2,
+    "wins": 3,
+    "races": 16
+  },
+  "Ken Kavanagh": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Gerino Gerini": {
+    "avg_finish": 8.75,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Bruce Kessler": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Paul Emery": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Luigi Piotti": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Bernie Ecclestone": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Luigi Taramazzo": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Louis Chiron": {
+    "avg_finish": 8.0,
+    "top10_rate": 85.7,
+    "podium_rate": 14.3,
+    "wins": 0,
+    "races": 7
+  },
+  "Stuart Lewis-Evans": {
+    "avg_finish": 4.33,
+    "top10_rate": 100.0,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 6
+  },
+  "George Amick": {
+    "avg_finish": 2.0,
+    "top10_rate": 100.0,
+    "podium_rate": 100.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jimmy Reece": {
+    "avg_finish": 9.75,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Johnnie Parsons": {
+    "avg_finish": 9.0,
+    "top10_rate": 50.0,
+    "podium_rate": 16.7,
+    "wins": 1,
+    "races": 6
+  },
+  "Johnnie Tolan": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Billy Garrett": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ed Elisian": {
+    "avg_finish": 18.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Pat O'Connor": {
+    "avg_finish": 11.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Jerry Unser": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Art Bisch": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Christian Goethals": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Dick Gibson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Robert La Caze": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Andr\u00e9 Guelfi": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Fran\u00e7ois Picard": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Tom Bridger": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alfonso de Portago": {
+    "avg_finish": 5.67,
+    "top10_rate": 100.0,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 3
+  },
+  "Cesare Perdisa": {
+    "avg_finish": 5.57,
+    "top10_rate": 100.0,
+    "podium_rate": 28.6,
+    "wins": 0,
+    "races": 7
+  },
+  "Eugenio Castellotti": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 37.5,
+    "wins": 0,
+    "races": 8
+  },
+  "Andr\u00e9 Simon": {
+    "avg_finish": 8.0,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Les Leston": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Sam Hanks": {
+    "avg_finish": 4.0,
+    "top10_rate": 80.0,
+    "podium_rate": 80.0,
+    "wins": 1,
+    "races": 5
+  },
+  "Andy Linden": {
+    "avg_finish": 8.4,
+    "top10_rate": 60.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Marshall Teague": {
+    "avg_finish": 11.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Don Edmunds": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Fred Agabashian": {
+    "avg_finish": 7.33,
+    "top10_rate": 66.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Elmer George": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Mike MacDowel": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Herbert MacKay-Fraser": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Bob Gerard": {
+    "avg_finish": 8.71,
+    "top10_rate": 57.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 7
+  },
+  "Umberto Maglioli": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 6
+  },
+  "Paul England": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Chico Landi": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Alberto Uria": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Hernando da Silva Ramos": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "\u00c9lie Bayol": {
+    "avg_finish": 5.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Robert Manzon": {
+    "avg_finish": 6.91,
+    "top10_rate": 90.9,
+    "podium_rate": 18.2,
+    "wins": 0,
+    "races": 11
+  },
+  "Louis Rosier": {
+    "avg_finish": 7.5,
+    "top10_rate": 96.2,
+    "podium_rate": 7.7,
+    "wins": 0,
+    "races": 26
+  },
+  "Bob Sweikert": {
+    "avg_finish": 7.0,
+    "top10_rate": 66.7,
+    "podium_rate": 33.3,
+    "wins": 1,
+    "races": 3
+  },
+  "Cliff Griffith": {
+    "avg_finish": 9.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Duke Dinsmore": {
+    "avg_finish": 16.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Keith Andrews": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Paul Fr\u00e8re": {
+    "avg_finish": 5.8,
+    "top10_rate": 100.0,
+    "podium_rate": 20.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Luigi Villoresi": {
+    "avg_finish": 4.28,
+    "top10_rate": 100.0,
+    "podium_rate": 44.4,
+    "wins": 0,
+    "races": 18
+  },
+  "Piero Scotti": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Colin Chapman": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Desmond Titterington": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Archie Scott Brown": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ottorino Volonterio": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Andr\u00e9 Milhoux": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Toulo de Graffenried": {
+    "avg_finish": 7.0,
+    "top10_rate": 91.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Piero Taruffi": {
+    "avg_finish": 4.08,
+    "top10_rate": 100.0,
+    "podium_rate": 41.7,
+    "wins": 1,
+    "races": 12
+  },
+  "Nino Farina": {
+    "avg_finish": 2.81,
+    "top10_rate": 100.0,
+    "podium_rate": 74.1,
+    "wins": 5,
+    "races": 27
+  },
+  "Roberto Mieres": {
+    "avg_finish": 5.12,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Sergio Mantovani": {
+    "avg_finish": 6.67,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Clemar Bucci": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jes\u00fas Iglesias": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alberto Ascari": {
+    "avg_finish": 2.18,
+    "top10_rate": 100.0,
+    "podium_rate": 77.3,
+    "wins": 13,
+    "races": 22
+  },
+  "Karl Kling": {
+    "avg_finish": 4.17,
+    "top10_rate": 100.0,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 6
+  },
+  "Pablo Birger": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jacques Pollet": {
+    "avg_finish": 8.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Lance Macklin": {
+    "avg_finish": 10.2,
+    "top10_rate": 60.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Ted Whiteaway": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jimmy Davies": {
+    "avg_finish": 10.25,
+    "top10_rate": 50.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Walt Faulkner": {
+    "avg_finish": 10.25,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Cal Niday": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Art Cross": {
+    "avg_finish": 6.0,
+    "top10_rate": 66.7,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 3
+  },
+  "Bill Vukovich": {
+    "avg_finish": 6.33,
+    "top10_rate": 66.7,
+    "podium_rate": 66.7,
+    "wins": 2,
+    "races": 3
+  },
+  "Jack McGrath": {
+    "avg_finish": 7.2,
+    "top10_rate": 60.0,
+    "podium_rate": 40.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Jerry Hoyt": {
+    "avg_finish": 14.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Johnny Claes": {
+    "avg_finish": 10.38,
+    "top10_rate": 46.2,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 13
+  },
+  "Peter Walker": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mike Sparken": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ken Wharton": {
+    "avg_finish": 7.38,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Kenneth McAlpine": {
+    "avg_finish": 14.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Leslie Marr": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Tony Rolt": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Fitch": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jean Lucas": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Prince Bira": {
+    "avg_finish": 7.4,
+    "top10_rate": 80.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Onofre Marim\u00f3n": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 66.7,
+    "wins": 0,
+    "races": 3
+  },
+  "Roger Loyer": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jorge Daponte": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mike Nazaruk": {
+    "avg_finish": 3.5,
+    "top10_rate": 100.0,
+    "podium_rate": 50.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Larry Crockett": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Manny Ayulo": {
+    "avg_finish": 12.25,
+    "top10_rate": 25.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Frank Armi": {
+    "avg_finish": 19.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Travis Webb": {
+    "avg_finish": 20.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Len Duncan": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ernie McCoy": {
+    "avg_finish": 12.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Jacques Swaters": {
+    "avg_finish": 8.33,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Georges Berger": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Don Beauman": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Leslie Thorne": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Whitehouse": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "John Riseley-Prichard": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Reg Parnell": {
+    "avg_finish": 4.75,
+    "top10_rate": 100.0,
+    "podium_rate": 25.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Peter Whitehead": {
+    "avg_finish": 7.6,
+    "top10_rate": 100.0,
+    "podium_rate": 20.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Eric Brandon": {
+    "avg_finish": 12.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 4
+  },
+  "Alan Brown": {
+    "avg_finish": 11.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Rodney Nuckey": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Hermann Lang": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Theo Helfrich": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Fred Wacker": {
+    "avg_finish": 7.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Giovanni de Riu": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Oscar G\u00e1lvez": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "John Barber": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Felice Bonetto": {
+    "avg_finish": 4.33,
+    "top10_rate": 100.0,
+    "podium_rate": 22.2,
+    "wins": 0,
+    "races": 9
+  },
+  "Adolfo Cruz": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Duke Nalon": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Carl Scarborough": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Holland": {
+    "avg_finish": 8.5,
+    "top10_rate": 50.0,
+    "podium_rate": 50.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Bob Scott": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Arthur Legat": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Yves Cabantous": {
+    "avg_finish": 8.88,
+    "top10_rate": 75.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 8
+  },
+  "Tony Crook": {
+    "avg_finish": 21.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jimmy Stewart": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Ian Stewart": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Duncan Hamilton": {
+    "avg_finish": 9.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Ernst Klodwig": {
+    "avg_finish": 13.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Rudolf Krause": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Oswald Karch": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Willi Heeks": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Theo Fitzau": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Kurt Adolff": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "G\u00fcnther Bechem": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Erwin Bauer": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Hans von Stuck": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ernst Loof": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Albert Scherrer": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Max de Terra": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Peter Hirt": {
+    "avg_finish": 9.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Piero Carini": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Rudi Fischer": {
+    "avg_finish": 7.67,
+    "top10_rate": 50.0,
+    "podium_rate": 33.3,
+    "wins": 0,
+    "races": 6
+  },
+  "Toni Ulmen": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "George Abecassis": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "George Connor": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Jim Rigsby": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Joe James": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Schindler": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "George Fonder": {
+    "avg_finish": 17.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Henry Banks": {
+    "avg_finish": 12.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Johnny McDowell": {
+    "avg_finish": 19.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Chet Miller": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Bobby Ball": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Charles de Tornaco": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Roger Laurent": {
+    "avg_finish": 9.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Robert O'Brien": {
+    "avg_finish": 14.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Tony Gaze": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Robin Montgomerie-Charrington": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Franco Comotti": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Philippe \u00c9tancelin": {
+    "avg_finish": 7.33,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 6
+  },
+  "Dennis Poore": {
+    "avg_finish": 8.0,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Eric Thompson": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Ken Downing": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Graham Whitehead": {
+    "avg_finish": 12.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Gino Bianco": {
+    "avg_finish": 18.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "David Murray": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Eitel Cantoni": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Aston": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Adolf Brudes": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Fritz Riess": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Helmut Niedermayr": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Hans Klenk": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Marcel Balsa": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Rudolf Schoeller": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Paul Pietsch": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Josef Peters": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Dries van der Lof": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jan Flinterman": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Piero Dusio": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alberto Crespo": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Franco Rol": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Consalvo Sanesi": {
+    "avg_finish": 6.67,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Guy Mairesse": {
+    "avg_finish": 11.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Henri Louveau": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Lee Wallard": {
+    "avg_finish": 3.5,
+    "top10_rate": 100.0,
+    "podium_rate": 50.0,
+    "wins": 1,
+    "races": 2
+  },
+  "Carl Forberg": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mauri Rose": {
+    "avg_finish": 3.0,
+    "top10_rate": 100.0,
+    "podium_rate": 100.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Mackey": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Cecil Green": {
+    "avg_finish": 4.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Walt Brown": {
+    "avg_finish": 19.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Mack Hellings": {
+    "avg_finish": 13.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Pierre Levegh": {
+    "avg_finish": 8.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 3
+  },
+  "Eug\u00e8ne Chaboud": {
+    "avg_finish": 6.5,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Aldo Gordini": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Joe Kelly": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Philip Fotheringham-Parker": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Brian Shawe Taylor": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "John James": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Toni Branca": {
+    "avg_finish": 10.5,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Ken Richardson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Juan Jover": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Georges Grignard": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "David Hampshire": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Geoff Crossley": {
+    "avg_finish": 9.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Luigi Fagioli": {
+    "avg_finish": 3.29,
+    "top10_rate": 85.7,
+    "podium_rate": 85.7,
+    "wins": 1,
+    "races": 7
+  },
+  "Cuth Harrison": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Joe Fry": {
+    "avg_finish": 10.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Eug\u00e8ne Martin": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Leslie Johnson": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Clemente Biondetti": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Alfredo Pi\u00e1n": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Raymond Sommer": {
+    "avg_finish": 4.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Joie Chitwood": {
+    "avg_finish": 5.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Myron Fohr": {
+    "avg_finish": 11.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Walt Ader": {
+    "avg_finish": 22.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Jackie Holmes": {
+    "avg_finish": 23.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bayliss Levrett": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Jimmy Jackson": {
+    "avg_finish": 15.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Nello Pagani": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Charles Pozzi": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Dorino Serafini": {
+    "avg_finish": 2.0,
+    "top10_rate": 100.0,
+    "podium_rate": 100.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Bill Cantrell": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Johnny Mantz": {
+    "avg_finish": 17.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Danny Kladis": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "\u00d3scar Gonz\u00e1lez": {
+    "avg_finish": 6.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Nico H\u00fclkenberg": {
+    "avg_finish": 10.19,
+    "top10_rate": 57.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 177
+  },
+  "Vitaly Petrov": {
+    "avg_finish": 12.91,
+    "top10_rate": 27.7,
+    "podium_rate": 2.1,
+    "wins": 0,
+    "races": 47
+  },
+  "Lucas di Grassi": {
+    "avg_finish": 17.6,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Bruno Senna": {
+    "avg_finish": 13.89,
+    "top10_rate": 31.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 35
+  },
+  "Karun Chandhok": {
+    "avg_finish": 17.22,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Pastor Maldonado": {
+    "avg_finish": 12.81,
+    "top10_rate": 20.9,
+    "podium_rate": 1.5,
+    "wins": 1,
+    "races": 67
+  },
+  "Paul di Resta": {
+    "avg_finish": 10.58,
+    "top10_rate": 50.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 52
+  },
+  "Sergio P\u00e9rez": {
+    "avg_finish": 7.89,
+    "top10_rate": 74.6,
+    "podium_rate": 16.2,
+    "wins": 6,
+    "races": 240
+  },
+  "J\u00e9r\u00f4me d'Ambrosio": {
+    "avg_finish": 17.88,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 17
+  },
+  "Daniel Ricciardo": {
+    "avg_finish": 8.59,
+    "top10_rate": 63.5,
+    "podium_rate": 15.2,
+    "wins": 8,
+    "races": 211
+  },
+  "Jean-\u00c9ric Vergne": {
+    "avg_finish": 11.91,
+    "top10_rate": 31.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 45
+  },
+  "Charles Pic": {
+    "avg_finish": 17.3,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 30
+  },
+  "Max Chilton": {
+    "avg_finish": 17.34,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 32
+  },
+  "Esteban Guti\u00e9rrez": {
+    "avg_finish": 13.96,
+    "top10_rate": 2.2,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 46
+  },
+  "Valtteri Bottas": {
+    "avg_finish": 7.39,
+    "top10_rate": 69.7,
+    "podium_rate": 32.2,
+    "wins": 10,
+    "races": 208
+  },
+  "Giedo van der Garde": {
+    "avg_finish": 17.38,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 16
+  },
+  "Jules Bianchi": {
+    "avg_finish": 16.57,
+    "top10_rate": 3.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 28
+  },
+  "Kevin Magnussen": {
+    "avg_finish": 12.56,
+    "top10_rate": 31.9,
+    "podium_rate": 0.7,
+    "wins": 0,
+    "races": 144
+  },
+  "Daniil Kvyat": {
+    "avg_finish": 10.62,
+    "top10_rate": 48.9,
+    "podium_rate": 3.3,
+    "wins": 0,
+    "races": 90
+  },
+  "Andr\u00e9 Lotterer": {
+    "avg_finish": null,
+    "top10_rate": 0,
+    "podium_rate": 0,
+    "wins": 0,
+    "races": 0
+  },
+  "Marcus Ericsson": {
+    "avg_finish": 13.92,
+    "top10_rate": 14.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 74
+  },
+  "Will Stevens": {
+    "avg_finish": 16.12,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 16
+  },
+  "Max Verstappen": {
+    "avg_finish": 3.54,
+    "top10_rate": 95.8,
+    "podium_rate": 63.9,
+    "wins": 61,
+    "races": 166
+  },
+  "Felipe Nasr": {
+    "avg_finish": 13.09,
+    "top10_rate": 21.2,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 33
+  },
+  "Carlos Sainz": {
+    "avg_finish": 7.37,
+    "top10_rate": 81.0,
+    "podium_rate": 14.6,
+    "wins": 3,
+    "races": 158
+  },
+  "Roberto Merhi": {
+    "avg_finish": 15.5,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 12
+  },
+  "Alexander Rossi": {
+    "avg_finish": 15.4,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Jolyon Palmer": {
+    "avg_finish": 13.27,
+    "top10_rate": 7.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 26
+  },
+  "Pascal Wehrlein": {
+    "avg_finish": 15.0,
+    "top10_rate": 9.7,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 31
+  },
+  "Rio Haryanto": {
+    "avg_finish": 18.22,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 9
+  },
+  "Stoffel Vandoorne": {
+    "avg_finish": 12.09,
+    "top10_rate": 23.5,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 34
+  },
+  "Esteban Ocon": {
+    "avg_finish": 9.63,
+    "top10_rate": 68.6,
+    "podium_rate": 2.5,
+    "wins": 1,
+    "races": 121
+  },
+  "Lance Stroll": {
+    "avg_finish": 11.11,
+    "top10_rate": 43.9,
+    "podium_rate": 2.3,
+    "wins": 0,
+    "races": 132
+  },
+  "Antonio Giovinazzi": {
+    "avg_finish": 13.39,
+    "top10_rate": 16.1,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 56
+  },
+  "Brendon Hartley": {
+    "avg_finish": 13.35,
+    "top10_rate": 17.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 17
+  },
+  "Charles Leclerc": {
+    "avg_finish": 5.67,
+    "top10_rate": 88.5,
+    "podium_rate": 31.0,
+    "wins": 6,
+    "races": 113
+  },
+  "Sergey Sirotkin": {
+    "avg_finish": 14.83,
+    "top10_rate": 5.6,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 18
+  },
+  "Lando Norris": {
+    "avg_finish": 7.46,
+    "top10_rate": 82.1,
+    "podium_rate": 17.9,
+    "wins": 1,
+    "races": 106
+  },
+  "George Russell": {
+    "avg_finish": 9.86,
+    "top10_rate": 52.0,
+    "podium_rate": 13.0,
+    "wins": 2,
+    "races": 100
+  },
+  "Alexander Albon": {
+    "avg_finish": 10.47,
+    "top10_rate": 45.6,
+    "podium_rate": 2.5,
+    "wins": 0,
+    "races": 79
+  },
+  "Nicholas Latifi": {
+    "avg_finish": 15.43,
+    "top10_rate": 5.9,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 51
+  },
+  "Pietro Fittipaldi": {
+    "avg_finish": 18.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 2
+  },
+  "Jack Aitken": {
+    "avg_finish": 16.0,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  },
+  "Yuki Tsunoda": {
+    "avg_finish": 12.33,
+    "top10_rate": 34.4,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 64
+  },
+  "Nikita Mazepin": {
+    "avg_finish": 17.81,
+    "top10_rate": 0.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 16
+  },
+  "Mick Schumacher": {
+    "avg_finish": 15.05,
+    "top10_rate": 5.3,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 38
+  },
+  "Guanyu Zhou": {
+    "avg_finish": 13.52,
+    "top10_rate": 13.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 46
+  },
+  "Nyck de Vries": {
+    "avg_finish": 14.8,
+    "top10_rate": 10.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 10
+  },
+  "Oscar Piastri": {
+    "avg_finish": 8.27,
+    "top10_rate": 70.0,
+    "podium_rate": 13.3,
+    "wins": 0,
+    "races": 30
+  },
+  "Logan Sargeant": {
+    "avg_finish": 15.76,
+    "top10_rate": 4.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 25
+  },
+  "Liam Lawson": {
+    "avg_finish": 12.2,
+    "top10_rate": 20.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 5
+  },
+  "Oliver Bearman": {
+    "avg_finish": 7.0,
+    "top10_rate": 100.0,
+    "podium_rate": 0.0,
+    "wins": 0,
+    "races": 1
+  }
+}
