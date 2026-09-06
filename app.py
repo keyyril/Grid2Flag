@@ -535,7 +535,7 @@ with tab1:
             'Value': features_normalized[0]
         })
 
-        st.dataframe(feature_df, width = "stretch")
+        st.dataframe(feature_df, use_container_width = True) # try use width = "stretch" if problem
 
 # ============================================================================
 # TAB 2: MODEL INFO
