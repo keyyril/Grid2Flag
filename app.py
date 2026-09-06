@@ -225,7 +225,7 @@ tab1, tab2, tab3, tab4 = st.tabs(["🔮Predictions", "🔎Model Info", "👀How 
 # ============================================================================
 
 with tab1:
-    st.markdown("## 🔮Make a prediction🧙‍♂️")
+    st.markdown("## 🔮Invoke The Orb to Foresee The Podium🧙‍♂️")
 
     col1, col2 = st.columns(2)
 
@@ -255,7 +255,7 @@ with tab1:
         col_a, col_b, col_c, col_d, col_e = st.columns([1, 1, 1, 1, 1])
         
         with col_a:
-            if st.button("🥇Podium", use_container_width = True):
+            if st.button("🥇 Podium", use_container_width = True):
                 st.session_state.preset = "podium"
                 # Clear random values when switching presets
                 st.session_state.random_values = None
@@ -272,7 +272,7 @@ with tab1:
                 st.session_state.preset = "poor"
                 st.session_state.random_values = None
         with col_e:
-            if st.button("🎲Random", use_container_width = True):
+            if st.button("🎲 Random", use_container_width = True):
                 st.session_state.preset = "random"
                 # Generate random values ONCE and store them
                 circuit_avg_ms = circuit_baselines[circuit_name]["mean"]
@@ -673,4 +673,4 @@ with tab4:
         st.metric("Samples", "8,468")
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #999;'>🏁 Grid2Flag | Built with Streamlit</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #999;'>🏁 Grid2Flag | Built with love <3</p>", unsafe_allow_html=True)
