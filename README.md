@@ -95,7 +95,7 @@ Grid2Flag/
 │   └── 06_calculate_stats.ipynb    # Circuit/driver/team stats
 │
 └── data/
-    ├── raw/                        # Original CSVs (not in repo)
+    ├── raw/                        # Original CSVs 
     └── processed/                  # Generated files
         ├── trained_model.pkl
         ├── normalization.pkl
