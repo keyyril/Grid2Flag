@@ -192,20 +192,20 @@ def get_team_context(team_name, circuit_name):
 # SIDEBAR CONFIGURATION
 # ============================================================================
 
-with st.sidebar:
-    st.markdown("#🛠 Configuration")
+# with st.sidebar:
+#    st.markdown("#🛠 Configuration")
 
-    threshold = st.slider(
-        "Decision Threshold",
-        min_value = 0.0,
-        max_value = 1.0,
-        value = 0.5,
-        step = 0.01,
-        help = "Adjust the probability threshold for top 10 prediction"
-    )
-
-    if abs(threshold - 0.531) < 0.5:
-        st.success("✅ Near optimal threshold (0.531)")
+#   threshold = st.slider(
+#        "Decision Threshold",
+#        min_value = 0.0,
+#        max_value = 1.0,
+#        value = 0.5,
+#        step = 0.01,
+#        help = "Adjust the probability threshold for top 10 prediction"
+#    )
+#
+#    if abs(threshold - 0.531) < 0.5:
+#       st.success("✅ Near optimal threshold (0.531)")
 
 # ============================================================================
 # MAIN APP
