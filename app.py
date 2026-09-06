@@ -194,7 +194,7 @@ def get_team_context(team_name, circuit_name):
 
 # with st.sidebar:
 #    st.markdown("#🛠 Configuration")
-
+threshold = 0.5
 #   threshold = st.slider(
 #        "Decision Threshold",
 #        min_value = 0.0,
