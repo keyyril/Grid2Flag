@@ -225,7 +225,7 @@ tab1, tab2, tab3, tab4 = st.tabs(["🔮Predictions", "🔎Model Info", "👀How 
 # ============================================================================
 
 with tab1:
-    st.markdown("## 🔮Invoke The Orb to Foresee The Podium🧙‍♂️")
+    st.markdown("## 🧙‍♂️ Invoke The Orb to Foresee The Podium 🔮")
 
     col1, col2 = st.columns(2)
 
