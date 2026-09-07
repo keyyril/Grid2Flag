@@ -218,7 +218,7 @@ with col2:
 
 st.markdown("---")
 
-tab1, tab2, tab3, tab4 = st.tabs(["🔮Predictions", "🔎Model Info", "👀How It Works", "💡About"])
+tab1, tab2, tab3, tab4 = st.tabs(["🔮 Predictions", "🔎 Model Info", "👀 How It Works", "💡 About"])
 
 # ============================================================================
 # TAB 1: PREDICTION
